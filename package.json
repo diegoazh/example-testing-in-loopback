@@ -11,7 +11,7 @@
     "async": "^1.4.2",
     "compression": "^1.0.3",
     "cors": "^2.5.2",
-    "lodash": "^3.10.1",
+    "lodash": "^4.17.19",
     "loopback": "^2.22.0",
     "loopback-boot": "^2.6.5",
     "loopback-connector-mongodb": "^1.13.0",
